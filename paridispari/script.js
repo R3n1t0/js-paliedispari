@@ -36,7 +36,7 @@ function pcRandomNumber(min, max){
 }
 
 
-/* Creo la Funzione per distinguere se pari o dispcari */
+/* Creo la Funzione per distinguere se pari o dispari */
 function pariDispari(num){
 
   if(num % 2) return false;
